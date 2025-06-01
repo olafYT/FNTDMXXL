@@ -12370,8 +12370,50 @@
                 "Burn": 5850,
                 "BurnTime": 1.2,
                 "Wither": 1.17,
-                "ShinyWither": 1.25,
-                "WitherTime": 10
+                "RangeBoost": 1.05
+            }
+        ]
+    },
+    "Done_Dev": {
+        "Type": "Aoe + Damage Booster",
+        "Image": "rbxassetid://131412010833384",
+        "Rarity": "Apex",
+        "PlacePrice": 100000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100000,
+                "Cooldown": 1,
+                "DamageBoost": 1.2
+            },
+            {
+                "Price": 150000,
+                "Range": 30,
+                "Damage": 120000,
+                "Cooldown": 2.25,
+                "DamageBoost": 1.3
+            },
+            {
+                "Price": 200000,
+                "Range": 40,
+                "Damage": 150000,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.4
+            },
+            {
+                "Price": 500000,
+                "Range": 50,
+                "Damage": 200000,
+                "Cooldown": 0.01,
+                "DamageBoost": 1.5
             }
         ]
     }
