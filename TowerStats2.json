@@ -13052,9 +13052,9 @@
             }
         ]
     },
-    "ReddyTDonYT": {
+    "ReddyTD": {
         "Type": "Aoe",
-        "Image": "rbxassetid://94059367110525",
+        "Image": "rbxassetid://98058856822974",
         "Rarity": "Apex",
         "PlacePrice": 25000,
         "Offset": 1,
@@ -13091,9 +13091,9 @@
             }
         ]
     },
-    "EquipTDonYT": {
+    "EquipTD": {
         "Type": "Splash",
-        "Image": "rbxassetid://94059367110525",
+        "Image": "rbxassetid://73457168560480",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": 1,
