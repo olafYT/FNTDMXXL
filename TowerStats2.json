@@ -13051,5 +13051,122 @@
                 "Cooldown": 2
             }
         ]
+    },
+        "ReddyTD_onYT": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://94059367110525",
+        "Rarity": "Apex",
+        "PlacePrice": 25000,
+        "Offset": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.1
+            },
+                        {
+                "Price": 30000,
+                "Range": 28,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            },
+                        {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 10000,
+                "Cooldown": 0.025
+            },
+                        {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 20000,
+                "Cooldown": 0.005
+            }
+        ]
+    },
+    "EquipTDonYT": {
+        "Type": "Splash",
+        "Image": "rbxassetid://94059367110525",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 1,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 15000,
+                "Cooldown": 4
+            },
+                        {
+                "Price": 30000,
+                "Range": 29,
+                "Damage": 17000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 50000,
+                "Range": 39,
+                "Damage": 20000,
+                "Cooldown": 2
+            },
+                        {
+                "Price": 70000,
+                "Range": 46,
+                "Damage": 50000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Meddyson": {
+        "Type": "Splash",
+        "Image": "rbxassetid://94059367110525",
+        "Rarity": "Ultra",
+        "PlacePrice": 100000,
+        "Offset": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 150000,
+                "Cooldown": 3.5
+            },
+                        {
+                "Price": 150000,
+                "Range": 30,
+                "Damage": 170000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 200000,
+                "Range": 35,
+                "Damage": 200000,
+                "Cooldown": 2.5
+            },
+                        {
+                "Price": 300000,
+                "Range": 45,
+                "Damage": 500000,
+                "Cooldown": 2
+            }
+        ]
     }
 }
