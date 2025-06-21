@@ -13328,5 +13328,122 @@
                 "Cooldown": 0.5
             }
         ]
+    },
+    "Nobody": {
+        "Type": "AOE",
+        "Image": "rbxassetid://113462889966554",
+        "Rarity": "Ultra",
+        "PlacePrice": 79000,
+        "Offset": 1,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 70000,
+                "Cooldown": 5
+            },
+                        {
+                "Price": 100000,
+                "Range": 30,
+                "Damage": 100000,
+                "Cooldown": 4
+            },
+                        {
+                "Price": 150000,
+                "Range": 40,
+                "Damage": 120000,
+                "Cooldown": 3.5
+            },
+                        {
+                "Price": 200000,
+                "Range": 50,
+                "Damage": 150000,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Kumi": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://129439582841779",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Offset": 1,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1200,
+                "Cooldown": 1
+            },
+                        {
+                "Price": 25000,
+                "Range": 35,
+                "Damage": 2500,
+                "Cooldown": 0.5
+            },
+                        {
+                "Price": 30000,
+                "Range": 40,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+                        {
+                "Price": 35000,
+                "Range": 45,
+                "Damage": 10000,
+                "Cooldown": 0.01
+            }
+        ]
+    },
+    "Cursed Reddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://128999838286798",
+        "Rarity": "Ultra",
+        "PlacePrice": 50000,
+        "Offset": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            },
+                        {
+                "Price": 80000,
+                "Range": 28,
+                "Damage": 10000,
+                "Cooldown": 0.01
+            },
+                        {
+                "Price": 100000,
+                "Range": 30,
+                "Damage": 25000,
+                "Cooldown": 0.008
+            },
+                        {
+                "Price": 130000,
+                "Range": 35,
+                "Damage": 50000,
+                "Cooldown": 0.001
+            }
+        ]
     }
 }
