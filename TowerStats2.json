@@ -13175,7 +13175,7 @@
         "Rarity": "Unkown",
         "PlacePrice": 2500,
         "Offset": 1,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -13185,7 +13185,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 2500,
+                "Damage": 3000,
                 "Cooldown": 1
             },
                         {
@@ -13214,7 +13214,7 @@
         "Rarity": "Apex",
         "PlacePrice": 59999,
         "Offset": 1,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -13236,24 +13236,24 @@
                         {
                 "Price": 100000,
                 "Range": 40,
-                "Damage": 50000,
+                "Damage": 45000,
                 "Cooldown": 0.7
             },
                         {
                 "Price": 150000,
                 "Range": 50,
-                "Damage": 100000,
+                "Damage": 50000,
                 "Cooldown": 0.5
             }
         ]
     },
     "Kiwl": {
-        "Type": "Farm + Single",
+        "Type": "Farm",
         "Image": "rbxassetid://100863744535790",
         "Rarity": "Unkown",
         "PlacePrice": 59999,
         "Offset": 1,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -13286,7 +13286,7 @@
                 "Range": 50,
                 "Damage": 50000,
                 "Cooldown": 0.5,
-                "Farm": 10000 
+                "Farm": 7000 
             }
         ]
     },
