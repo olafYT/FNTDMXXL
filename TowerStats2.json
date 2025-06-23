@@ -13448,7 +13448,7 @@
     },
     "Tarnished Donedev": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://129649712581571",
         "Rarity": "Unkown",
         "PlacePrice": 5000,
         "Offset": 1,
@@ -13487,7 +13487,7 @@
     },
     "KingGodz": {
         "Type": "Continuous",
-        "Image": "",
+        "Image": "rbxassetid://120678252996453",
         "Rarity": "Unkown",
         "PlacePrice": 15000,
         "Offset": 0,
