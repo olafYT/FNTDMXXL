@@ -13585,25 +13585,17 @@
                 "Range": 45,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.4,
-                "DamageBoost": 1.4
-            },
-            {
-            "Price": 15000,
-                "Range": 50,
-                "Damage": 0,
-                "Cooldown": 1,
                 "RangeBoost": 1.5,
                 "DamageBoost": 1.5
             },
             {
-            "Price": 25000,
+                "Price": 15000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 2,
                 "DamageBoost": 2
-            }
+            },
         ]
     }
 }
