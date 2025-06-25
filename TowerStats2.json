@@ -13562,8 +13562,7 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1,
-                "DamageBoost": 1.1,
-                "CooldownBoost": 0.5
+                "DamageBoost": 1.1
             },
             {
                 "Price": 5000,
@@ -13571,8 +13570,7 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1,
-                "DamageBoost": 1.1,
-                "CooldownBoost": 0.5
+                "DamageBoost": 1.1
             },
             {
                 "Price": 7500,
@@ -13580,8 +13578,7 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1,
-                "DamageBoost": 1.1,
-                "CooldownBoost": 0.5
+                "DamageBoost": 1.1
             },
             {
                 "Price": 10000,
@@ -13589,8 +13586,7 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1,
-                "DamageBoost": 1.1,
-                "CooldownBoost": 0.5
+                "DamageBoost": 1.1
             },
             {
                 "Price": 12000,
@@ -13598,8 +13594,7 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1,
-                "DamageBoost": 1.1,
-                "CooldownBoost": 0.5
+                "DamageBoost": 1.1
             }
         ]
     }
