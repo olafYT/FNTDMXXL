@@ -13593,8 +13593,8 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 999,
-                "DamageBoost": 999
+                "RangeBoost": 3,
+                "DamageBoost": 5
             },
         ]
     }
