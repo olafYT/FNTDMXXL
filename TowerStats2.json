@@ -13456,7 +13456,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://129649712581571",
         "Rarity": "Unkown",
-        "PlacePrice": 5000,
+        "PlacePrice": 10000,
         "Offset": 1,
         "Max": 2,
         "hitboxOffset": {
@@ -13472,25 +13472,25 @@
                 "Cooldown": 0.05
             },
             {
-                "Price": 8000,
+                "Price": 12000,
                 "Range": 35,
                 "Damage": 5000,
                 "Cooldown": 0.01
             },
             {
-                "Price": 9000,
+                "Price": 15000,
                 "Range": 40,
                 "Damage": 7500,
                 "Cooldown": 0.005
             },
             {
-                "Price": 10000,
+                "Price": 20000,
                 "Range": 45,
                 "Damage": 10000,
                 "Cooldown": 0.001
             },
             {
-                "Price": 12000,
+                "Price": 25000,
                 "Range": 50,
                 "Damage": 12000,
                 "Cooldown": 0.001
