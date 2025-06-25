@@ -13461,26 +13461,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 2000,
+                "Range": 40,
+                "Damage": 3500,
                 "Cooldown": 0.05
             },
             {
                 "Price": 8000,
-                "Range": 30,
-                "Damage": 4000,
+                "Range": 50,
+                "Damage": 5000,
                 "Cooldown": 0.01
             },
             {
-                "Price": 10000,
-                "Range": 40,
-                "Damage": 5000,
+                "Price": 9000,
+                "Range": 60,
+                "Damage": 7500,
                 "Cooldown": 0.005
             },
             {
-                "Price": 13000,
-                "Range": 50,
-                "Damage": 7500,
+                "Price": 10000,
+                "Range": 70,
+                "Damage": 10000,
                 "Cooldown": 0.001
             }
         ]
