@@ -13205,6 +13205,12 @@
                 "Range": 45,
                 "Damage": 5000,
                 "Cooldown": 0.1
+            },
+            {
+                "Price": 15000,
+                "Range": 50,
+                "Damage": 10000,
+                "Cooldown": 0.05
             }
         ]
     },
@@ -13482,6 +13488,12 @@
                 "Range": 70,
                 "Damage": 10000,
                 "Cooldown": 0.001
+            },
+            {
+                "Price": 15000,
+                "Range": 70,
+                "Damage": 12000,
+                "Cooldown": 0.001
             }
         ]
     },
@@ -13527,6 +13539,67 @@
                 "Range": 40,
                 "Damage": 3000,
                 "Cooldown": 0.001
+            }
+        ]
+    },
+     "": {
+        "Type": "Support",
+        "Image": "rbxassetid://120678252996453",
+        "Rarity": "Unkown",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1,
+                "DamageBoost": 1.1,
+                "CooldownBoost": 0.5
+            },
+            {
+                "Price": 5000,
+                "Range": 35,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1,
+                "DamageBoost": 1.1,
+                "CooldownBoost": 0.5
+            },
+            {
+                "Price": 7500,
+                "Range": 40,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1,
+                "DamageBoost": 1.1,
+                "CooldownBoost": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 45,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1,
+                "DamageBoost": 1.1,
+                "CooldownBoost": 0.5
+            },
+            {
+                "Price": 12000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1,
+                "DamageBoost": 1.1,
+                "CooldownBoost": 0.5
             }
         ]
     }
