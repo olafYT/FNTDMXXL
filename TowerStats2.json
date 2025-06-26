@@ -13172,7 +13172,7 @@
     "Donedev": {
         "Type": "AOE",
         "Image": "rbxassetid://94297291720457",
-        "Rarity": "Unkown",
+        "Rarity": "Ultra",
         "PlacePrice": 2500,
         "Offset": 1,
         "Max": 3,
@@ -13461,7 +13461,7 @@
     "King Godz": {
         "Type": "Continuous",
         "Image": "rbxassetid://120678252996453",
-        "Rarity": "Unkown",
+        "Rarity": "Ultra",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 2,
@@ -13558,5 +13558,50 @@
                 "DamageBoost": 2
             }
         ]
-    }
+    },
+    "King Godz Prime": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://120678252996453",
+        "Rarity": "Unkown",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 55000,
+                "Range": 30,
+                "Damage": 2000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 3000,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 75000,
+                "Range": 45,
+                "Damage": 4000,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 85000,
+                "Range": 50,
+                "Damage": 5000,
+                "Cooldown": 0.001
+            }
+        ]
+    },
 }
