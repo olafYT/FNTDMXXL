@@ -13413,6 +13413,51 @@
             }
         ]
     },
+    "Crimsonded Overlord Scott": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://105592585896727",
+        "Rarity": "Apex",
+        "PlacePrice": 100000,
+        "Offset": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 35000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 120000,
+                "Range": 40,
+                "Damage": 50000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 150000,
+                "Range": 40,
+                "Damage": 75000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 200000,
+                "Range": 45,
+                "Damage": 90000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 250000,
+                "Range": 45,
+                "Damage": 110000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Tarnished Donedev": {
         "Type": "AOE",
         "Image": "rbxassetid://129649712581571",
