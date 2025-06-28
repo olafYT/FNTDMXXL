@@ -13056,7 +13056,7 @@
         "Type": "Aoe",
         "Image": "rbxassetid://98058856822974",
         "Rarity": "Apex",
-        "PlacePrice": 25000,
+        "PlacePrice": 15000,
         "Offset": 1,
         "Max": 1,
         "hitboxOffset": {
@@ -13410,6 +13410,96 @@
                 "Range": 35,
                 "Damage": 7500,
                 "Cooldown": 0.001
+            }
+        ]
+    },
+    "crystallised Ice Freddy": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://85820102095942",
+        "Rarity": "Unkown",
+        "PlacePrice": 200000,
+        "Offset": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 55000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 150000,
+                "Range": 50,
+                "Damage": 90000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 180000,
+                "Range": 50,
+                "Damage": 120000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 240000,
+                "Range": 65,
+                "Damage": 150000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 290000,
+                "Range": 65,
+                "Damage": 190000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Crimsoned Glamrock": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://95988117004907",
+        "Rarity": "Unkown",
+        "PlacePrice": 200000,
+        "Offset": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 55000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 150000,
+                "Range": 50,
+                "Damage": 90000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 180000,
+                "Range": 50,
+                "Damage": 120000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 240000,
+                "Range": 65,
+                "Damage": 150000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 290000,
+                "Range": 65,
+                "Damage": 190000,
+                "Cooldown": 1
             }
         ]
     },
