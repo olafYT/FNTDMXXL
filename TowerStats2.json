@@ -13253,6 +13253,49 @@
             }
         ]
     },
+    "jaylen2014r": {
+        "Type": "Farm",
+        "Image": "rbxassetid://100863744535790",
+        "Rarity": "Rare",
+        "PlacePrice": 100,
+        "Offset": 1,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 2,
+                "Farm": 100
+            },
+                        {
+                "Price": 75000,
+                "Range": 35,
+                "Damage": 0,
+                "Cooldown": 1,
+                "Farm": 100
+            },
+                        {
+                "Price": 100000,
+                "Range": 40,
+                "Damage": 0,
+                "Cooldown": 0.7,
+                "Farm": 100
+            },
+                        {
+                "Price": 150000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 0.5,
+                "Farm": 100
+            }
+        ]
+    },
     "Kiwl": {
         "Type": "Farm",
         "Image": "rbxassetid://100863744535790",
