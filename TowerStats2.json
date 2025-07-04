@@ -13055,7 +13055,7 @@
     "ReddyTD": {
         "Type": "Aoe",
         "Image": "rbxassetid://98058856822974",
-        "Rarity": "Unkown",
+        "Rarity": "Reddy",
         "PlacePrice": 15000,
         "Offset": 1,
         "Max": 1,
@@ -13420,7 +13420,7 @@
     "Cursed Reddy": {
         "Type": "AOE",
         "Image": "rbxassetid://128999838286798",
-        "Rarity": "Reddy",
+        "Rarity": "Limited",
         "PlacePrice": 50000,
         "Offset": 1,
         "Max": 1,
