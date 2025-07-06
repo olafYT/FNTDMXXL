@@ -13726,6 +13726,62 @@
             }
         ]
     },
+    "Red Chica": {
+        "Type": "Support",
+        "Image": "rbxassetid://79531472142860",
+        "Rarity": "Rare",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 2,
+                "DamageBoost": 1.9
+            },
+            {
+                "Price": 5000,
+                "Range": 35,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 2.5,
+                "DamageBoost": 2
+            },
+            {
+                "Price": 7500,
+                "Range": 40,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 3,
+                "DamageBoost": 2.2
+            },
+            {
+                "Price": 10000,
+                "Range": 45,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 4,
+                "DamageBoost": 2.8
+            },
+            {
+                "Price": 15000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": ,
+                "DamageBoost": 2
+            }
+        ]
+    },
     "Kingnoob": {
         "Type": "Support",
         "Image": "rbxassetid://79531472142860",
@@ -13843,31 +13899,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
+                "Damage": 15000,
                 "Cooldown": 0.1
             },
             {
                 "Price": 55000,
                 "Range": 20,
-                "Damage": 2000,
+                "Damage": 20000,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
                 "Range": 25,
-                "Damage": 3000,
+                "Damage": 30000,
                 "Cooldown": 0.01
             },
             {
                 "Price": 75000,
                 "Range": 35,
-                "Damage": 4000,
+                "Damage": 40000,
                 "Cooldown": 0.005
             },
             {
                 "Price": 85000,
                 "Range": 40,
-                "Damage": 5000,
+                "Damage": 50000,
                 "Cooldown": 0.001
             }
         ]
