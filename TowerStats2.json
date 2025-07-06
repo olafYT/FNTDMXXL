@@ -13726,6 +13726,824 @@
             }
         ]
     },
+        "Vanessa": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://91282011150521",
+        "Rarity": "Epic",
+        "PlacePrice": 400,
+        "Offset": 0.3,
+        "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 20%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 1,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 18,
+                "Damage": 325,
+                "Cooldown": 1,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Slow": 0.80,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 22,
+                "Damage": 450,
+                "Cooldown": 1,
+                "Slow": 0.80,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Gregory": {
+        "Type": "Continous Splash",
+        "Image": "rbxassetid://127074941934847",
+        "Rarity": "Mythic",
+        "PlacePrice": 8000,
+        "Offset": 3,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 520,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 640,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 750,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Tiger Rock": {
+        "Type": "Slash",
+        "Image": "rbxassetid://91972547700934",
+        "Rarity": "Secret",
+        "PlacePrice": 30000,
+        "Offset": 1,
+        "Max": 3,
+        "Passive": {"Name": "Rock On", "Description": "Attacks apply 80% Anti Regen for 1.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 12000,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 1.5
+            },
+            {
+                "Price": 35000,
+                "Range": 29,
+                "Damage": 14000,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 1.5
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 16000,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 1.5
+            },
+            {
+                "Price": 45000,
+                "Range": 32,
+                "Damage": 18000,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 1.5
+            }
+        ]
+    },
+    "Funtime Chica": {
+        "Type": "Cone AOE + Boost",
+        "Image": "rbxassetid://103017752267035",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Smile! Say Cheese!", "Description": "Provides a 1.1x-1.3x range boost to all units in range. Also boosts all Chica's damage on the team by 1.3x (62.5% when Shiny)."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 4000,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 40000,
+                "Range": 23,
+                "Damage": 5000,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 50000,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 1,
+                "RangeBoost": 1.3
+            }
+        ]
+    },
+    "ITP Springbonnie": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://72646308433490",
+        "Rarity": "Nightmare",
+        "PlacePrice": 39000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Back to the Past...", "Description": "Kidnaps an enemey for 2 seconds every 7 seconds."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 68000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 42000,
+                "Range": 32,
+                "Damage": 85000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 45000,
+                "Range": 35,
+                "Damage": 105000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 48000,
+                "Range": 38,
+                "Damage": 128000,
+                "Cooldown": 4
+            }
+        ]
+    },
+    "Prototype Glamrock Freddy": {
+        "Type": "Continous Splash Stun",
+        "Image": "rbxassetid://80796451549035",
+        "Rarity": "Secret",
+        "PlacePrice": 12000,
+        "Offset": 1,
+        "Max": 3,
+        "Passive": {"Name": "Shock", "Description": "Stuns enemies for 0.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 1200,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 31,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 1750,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Fetch": {
+        "Type": "Splash + Bleed",
+        "Image": "rbxassetid://77053332392875",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": -0.5,
+        "Max": 3,
+        "Passive": {"Name": "Bleed", "Description": "Attacks apply 50% Anti Regen for 1 second."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1100,
+                "Cooldown": 3,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 22,
+                "Damage": 1700,
+                "Cooldown": 3,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 23,
+                "Damage": 2500,
+                "Cooldown": 2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 3300,
+                "Cooldown": 3,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            }
+        ]
+    },
+    "Jackie": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://118660039926391",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6000,
+        "Offset": -2,
+        "Max": 2,
+        "Passive": {"Name": "Time to Play!", "Description": "Attacks apply 60% slow for 4 seconds and Stun enemies for 0.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 8000,
+                "Cooldown": 2.7,
+                "Slow": 0.4,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 8000,
+                "Range": 30,
+                "Damage": 13000,
+                "Cooldown": 2.7,
+                "Slow": 0.4,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 32,
+                "Damage": 16000,
+                "Cooldown": 2.7,
+                "Slow": 0.4,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 12000,
+                "Range": 35,
+                "Damage": 18900,
+                "Cooldown": 2.7,
+                "Slow": 0.4,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "The Blob": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://75705628462698",
+        "Rarity": "Nightmare",
+        "PlacePrice": 45000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Tangled", "Description": "The 6th slot on your team gets -1 placement but gains a +150% damage bonus."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 60000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 60000,
+                "Range": 33,
+                "Damage": 70000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 80000,
+                "Range": 36,
+                "Damage": 85000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 100000,
+                "Range": 40,
+                "Damage": 102000,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Bidybab": {
+        "Type": "Single Stun",
+        "Image": "rbxassetid://114438279460444",
+        "Rarity": "Epic",
+        "PlacePrice": 4000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Stun", "Description": "Attack stun enemies for 0.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 4700,
+                "Range": 22,
+                "Damage": 2800,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 5450,
+                "Range": 24,
+                "Damage": 3400,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 6000,
+                "Range": 26,
+                "Damage": 4000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Chica's Magic Rainbow": {
+        "Type": "Continous Pierce Spread",
+        "Image": "rbxassetid://100362118597526",
+        "Rarity": "Nightmare",
+        "PlacePrice": 41000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Colors of the Rainbow", "Description": "This unit gains a stackable +20% damage bonus for each unique rarity on the team."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 52000,
+                "Range": 32,
+                "Damage": 5600,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 63000,
+                "Range": 35,
+                "Damage": 7000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 74000,
+                "Range": 38,
+                "Damage": 8750,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Carnie": {
+        "Type": "Cone AOE Burn + Stun",
+        "Image": "rbxassetid://105073583638652",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Mayhem", "Description": "Attacks Burn enemies at 25% and Stun for 1 second."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 40000,
+                "Cooldown": 4.2,
+                "Slow": 0,
+                "SlowTime": 1,
+                "Burn": 10000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 32,
+                "Damage": 58000,
+                "Cooldown": 4.2,
+                "Slow": 0,
+                "SlowTime": 1,
+                "Burn": 14500,
+                "BurnTime": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 35,
+                "Damage": 72000,
+                "Cooldown": 4.2,
+                "Slow": 0,
+                "SlowTime": 1,
+                "Burn": 18000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 55000,
+                "Range": 38,
+                "Damage": 88200,
+                "Cooldown": 4.2,
+                "Slow": 0,
+                "SlowTime": 1,
+                "Burn": 22050,
+                "BurnTime": 1
+            }
+        ]
+    },
+    "Minireenas": {
+        "Type": "Single",
+        "Image": "rbxassetid://120057608216168",
+        "Rarity": "Epic",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 1750,
+                "Range": 17,
+                "Damage": 1150,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 2500,
+                "Range": 19,
+                "Damage": 1300,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 3250,
+                "Range": 23,
+                "Damage": 1500,
+                "Cooldown": 1.2
+            }
+        ]
+    },
+    "JJ": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://83426992973072",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Hello? Hi!", "Description": "Gains +50% more damage for every Balloon Boy variant on your team."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 222,
+                "Damage": 14000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 16000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 28,
+                "Damage": 18000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Star Spangled Orville": {
+        "Type": "Explosive Wither",
+        "Image": "rbxassetid://127898009659800",
+        "Rarity": "Nightmare",
+        "PlacePrice": 44000,
+        "Offset": -1.5,
+        "Max": 2,
+        "Passive": {"Name": "Fireworks All Around", "Description": "Attacks apply 10% Wither for 2 seconds (20% if shiny). Every 15 seconds deals AOE damage equal to 15x this units damage in Burn."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 12000,
+                "Cooldown": 2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 2
+            },
+            {
+                "Price": 50000,
+                "Range": 28,
+                "Damage": 15000,
+                "Cooldown": 2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 2
+            },
+            {
+                "Price": 57500,
+                "Range": 32,
+                "Damage": 18000,
+                "Cooldown": 2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 2
+            },
+            {
+                "Price": 63500,
+                "Range": 35,
+                "Damage": 20000,
+                "Cooldown": 2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 2
+            }
+        ]
+    },
+    "Sparky": {
+        "Type": "Single",
+        "Image": "rbxassetid://106044817477654",
+        "Rarity": "Forgotten",
+        "PlacePrice": 999999,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Where Am I?", "Description": "You'll Never Find Me, No Matter Where You Look."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 5,
+                "Damage": 1000000,
+                "Cooldown": 10
+            },
+            {
+                "Price": 999999,
+                "Range": 5,
+                "Damage": 1000000,
+                "Cooldown": 10
+            },
+            {
+                "Price": 999999,
+                "Range": 5,
+                "Damage": 1000000,
+                "Cooldown": 10
+            },
+            {
+                "Price": 999999,
+                "Range": 5,
+                "Damage": 1000000,
+                "Cooldown": 10
+            }
+        ]
+    },
+    "Mr Hippo": {
+        "Type": "Trapper + Turret",
+        "Image": "rbxassetid://73851279283098",
+        "Rarity": "Apex",
+        "PlacePrice": 68000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Life Story or Something", "Description": "Mr Hippo's turret copies his own stats whole applying 10% Wither for 5 seconds (20% when shiny). Traps do damage equal to Mr Hippo and True Stun for 3 seconds (Cap 100)."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 30, "Damage": 30000, "Cooldown": 5}
+            },
+            {
+                "Price": 75000,
+                "Range": 33,
+                "Damage": 40000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 33, "Damage": 40000, "Cooldown": 5}
+            },
+            {
+                "Price": 82000,
+                "Range": 36,
+                "Damage": 50000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 36, "Damage": 50000, "Cooldown": 5}
+            },
+            {
+                "Price": 91500,
+                "Range": 40,
+                "Damage": 60000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 40, "Damage": 60000, "Cooldown": 5}
+            }
+        ]
+    },
+    "Jester Puppet": {
+        "Type": "Continous Splash Wither + Passive",
+        "Image": "rbxassetid://112806747062575",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 60000,
+                "Range": 32,
+                "Damage": 4000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 80000,
+                "Range": 38,
+                "Damage": 6250,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            }
+        ]
+    }
      "Kingnoob": {
         "Type": "Support",
         "Image": "rbxassetid://79531472142860",
