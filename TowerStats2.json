@@ -13782,6 +13782,51 @@
             }
         ]
     },
+    "Surfin Bonnie": {
+        "Type": "Continuous Slow",
+        "Image": "rbxassetid://128008587690399",
+        "Rarity": "Limited",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 9500,
+                "Range": 20,
+                "Damage": 13000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 19000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 24000,
+                "Range": 35,
+                "Damage": 29000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 34700,
+                "Range": 40,
+                "Damage": 51000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "King Godz Prime": {
         "Type": "Continuous",
         "Image": "rbxassetid://120678252996453",
