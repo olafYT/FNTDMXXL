@@ -13726,7 +13726,7 @@
             }
         ]
     },
-        "Vanessa": {
+    "Vanessa": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://91282011150521",
         "Rarity": "Epic",
@@ -14499,7 +14499,7 @@
             }
         ]
     }
-     "Kingnoob": {
+    "Kingnoob": {
         "Type": "Support",
         "Image": "rbxassetid://79531472142860",
         "Rarity": "Limited",
