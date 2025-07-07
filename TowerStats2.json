@@ -13637,12 +13637,12 @@
         ]
     },
     "Rage Bait Toy Freddy": {
-        "Type": "AOE",
+        "Type": "Poison",
         "Image": "rbxassetid://123762076371766",
-        "Rarity": "Ultra",
-        "PlacePrice": 250000,
+        "Rarity": "Secret",
+        "PlacePrice": 400,
         "Offset": 0,
-        "Max": 1,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -13651,33 +13651,35 @@
        "Upgrades": [
             {
                 "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 3.5,
+                "Poison": 10,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 225,
+                "Cooldown": 3,
+                "Poison": 15,
+                "PoisonLength": 3
+            },
+            {
+                "Price": 1000,
                 "Range": 20,
-                "Damage": 12000,
-                "Cooldown": 0.1
+                "Damage": 250,
+                "Cooldown": 3,
+                "Poison": 20,
+                "PoisonLength": 3
             },
             {
-                "Price": 450000,
+                "Price": 1200,
                 "Range": 25,
-                "Damage": 19000,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 500000,
-                "Range": 30,
-                "Damage": 200000,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 600000,
-                "Range": 35,
-                "Damage": 300000,
-                "Cooldown": 0.01
-            },
-            {
-                "Price": 750000,
-                "Range": 40,
-                "Damage": 4000000,
-                "Cooldown": 0.001
+                "Damage": 300,
+                "Cooldown": 2,
+                "Poison": 30,
+                "PoisonLength": 3
             }
         ]
     },
