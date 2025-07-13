@@ -13885,6 +13885,51 @@
             }
         ]
     },
+    "Elias": {
+        "Type": "AOE",
+        "Image": "rbxassetid://128008587690399",
+        "Rarity": "Dev",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 99,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+       "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            }
+        ]
+    },
     "King Godz Prime": {
         "Type": "Continuous",
         "Image": "rbxassetid://120678252996453",
