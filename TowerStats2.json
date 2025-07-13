@@ -13986,6 +13986,51 @@
             }
         ]
     },
+    "Mr Elias": {
+        "Type": "Trapper + Turret",
+        "Image": "rbxassetid://73851279283098",
+        "Rarity": "Apex",
+        "PlacePrice": 68000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Life Story or Something", "Description": "Mr Hippo's turret copies his own stats whole applying 10% Wither for 5 seconds (20% when shiny). Traps do damage equal to Mr Hippo and True Stun for 3 seconds (Cap 100)."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 30, "Damage": 30000, "Cooldown": 5}
+            },
+            {
+                "Price": 75000,
+                "Range": 33,
+                "Damage": 40000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 33, "Damage": 40000, "Cooldown": 5}
+            },
+            {
+                "Price": 82000,
+                "Range": 36,
+                "Damage": 50000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 36, "Damage": 50000, "Cooldown": 5}
+            },
+            {
+                "Price": 91500,
+                "Range": 40,
+                "Damage": 60000,
+                "Cooldown": 5,
+                "HippoTurret1": {"Range": 40, "Damage": 60000, "Cooldown": 5}
+            }
+        ]
+    },
     "Mr Hippo": {
         "Type": "Trapper + Turret",
         "Image": "rbxassetid://73851279283098",
