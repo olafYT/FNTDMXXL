@@ -13990,14 +13990,13 @@
             }
         ]
     },
-    "Sparky": {
-        "Type": "Single",
-        "Image": "rbxassetid://106044817477654",
-        "Rarity": "Forgotten",
-        "PlacePrice": 999999,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Where Am I?", "Description": "You'll Never Find Me, No Matter Where You Look."},
+    "Elias1": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -14006,31 +14005,37 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
             },
             {
-                "Price": 999999,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
             },
             {
-                "Price": 999999,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
             },
             {
-                "Price": 999999,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
             }
         ]
     },
-    "Mr Elias": {
+    "Mr Eliastest": {
         "Type": "Trapper + Turret",
         "Image": "rbxassetid://73851279283098",
         "Rarity": "Apex",
