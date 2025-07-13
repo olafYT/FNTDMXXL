@@ -13055,7 +13055,7 @@
     "ReddyTD": {
         "Type": "Aoe",
         "Image": "rbxassetid://98058856822974",
-        "Rarity": "Reddy",
+        "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": 1,
         "Max": 1,
@@ -13133,7 +13133,7 @@
     "Meddyson": {
         "Type": "Splash",
         "Image": "rbxassetid://97095187877007",
-        "Rarity": "Ultra",
+        "Rarity": "Nightmare",
         "PlacePrice": 100000,
         "Offset": 1,
         "Max": 1,
@@ -13172,7 +13172,7 @@
     "Donedev": {
         "Type": "AOE",
         "Image": "rbxassetid://94297291720457",
-        "Rarity": "Unkown",
+        "Rarity": "Nightmare",
         "PlacePrice": 2500,
         "Offset": 1,
         "Max": 3,
@@ -13217,7 +13217,7 @@
     "BemmyBlox": {
         "Type": "Pierce",
         "Image": "rbxassetid://137256667595694",
-        "Rarity": "Apex",
+        "Rarity": "Nightmare",
         "PlacePrice": 59999,
         "Offset": 1,
         "Max": 2,
@@ -13299,7 +13299,7 @@
     "Kiwl": {
         "Type": "Farm",
         "Image": "rbxassetid://100863744535790",
-        "Rarity": "Unkown",
+        "Rarity": "Nightmare",
         "PlacePrice": 59999,
         "Offset": 1,
         "Max": 2,
@@ -13381,7 +13381,7 @@
     "Nobody": {
         "Type": "AOE",
         "Image": "rbxassetid://113462889966554",
-        "Rarity": "Ultra",
+        "Rarity": "Nightmare",
         "PlacePrice": 79000,
         "Offset": 1,
         "Max": 1,
@@ -13420,7 +13420,7 @@
     "Cursed Reddy": {
         "Type": "AOE",
         "Image": "rbxassetid://128999838286798",
-        "Rarity": "Limited",
+        "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 1,
         "Max": 1,
@@ -13459,7 +13459,7 @@
     "crystallised Ice Freddy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://91651679602392",
-        "Rarity": "Unkown",
+        "Rarity": "Nightmare",
         "PlacePrice": 200000,
         "Offset": 1,
         "Max": 1,
@@ -13504,7 +13504,7 @@
     "Crimsoned Glamrock": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://133221110891427",
-        "Rarity": "Unkown",
+        "Rarity": "Nightmare",
         "PlacePrice": 200000,
         "Offset": 1,
         "Max": 1,
@@ -13594,7 +13594,7 @@
     "Tarnished Donedev": {
         "Type": "AOE",
         "Image": "rbxassetid://129649712581571",
-        "Rarity": "Limited",
+        "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 1,
         "Max": 2,
@@ -13686,7 +13686,7 @@
     "King Godz": {
         "Type": "Continuous",
         "Image": "rbxassetid://120678252996453",
-        "Rarity": "Unkown",
+        "Rarity": "Nightmare",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 2,
@@ -13787,7 +13787,7 @@
     "Kingnoob": {
         "Type": "Support",
         "Image": "rbxassetid://79531472142860",
-        "Rarity": "Limited",
+        "Rarity": "Nightmare",
         "PlacePrice": 2500,
         "Offset": 0,
         "NoEnemyAttack": true,
@@ -13843,7 +13843,7 @@
     "Surfin Bonnie": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://128008587690399",
-        "Rarity": "Limited",
+        "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
@@ -13888,7 +13888,7 @@
     "Elias": {
         "Type": "AOE",
         "Image": "rbxassetid://128008587690399",
-        "Rarity": "Dev",
+        "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 99,
@@ -13933,7 +13933,7 @@
     "King Godz Prime": {
         "Type": "Continuous",
         "Image": "rbxassetid://120678252996453",
-        "Rarity": "Limited",
+        "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
