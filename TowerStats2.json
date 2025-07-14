@@ -39,7 +39,7 @@
         ]
     },
     "Twisted Freddy": {
-        "Type": "Continous Splash",
+        "Type": "AOE",
         "Image": "rbxassetid://127074941934847",
         "Rarity": "Twisted",
         "PlacePrice": 80000,
