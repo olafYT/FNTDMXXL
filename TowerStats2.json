@@ -13990,7 +13990,7 @@
 		"Type": "Cone Aoe Stun",
 		"Image": "rbxassetid://127074941934847",
 		"Rarity": "Glitched",
-		"PlacePrice": 80000,
+		"PlacePrice": 8,
 		"Offset": 3,
 		"Max": 2,
 		"hitboxOffset": {
