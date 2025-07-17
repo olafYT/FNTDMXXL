@@ -2639,4 +2639,82 @@
             }
         ]
     },
+     "Glitched Puppeteer": {
+        "Type": "Splash",
+        "Image": "rbxassetid://18887217738",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 25000,
+                "Range": 33,
+                "Damage": 4750,
+                "Cooldown": 3.85
+            },
+            {
+                "Price": 30000,
+                "Range": 36,
+                "Damage": 5500,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 40000,
+                "Range": 40,
+                "Damage": 6500,
+                "Cooldown": 3.5
+          }
+     ]
+ },
+"Glitched CupCake": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18888327109",
+        "Rarity": "Epic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 40,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 50,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 60,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 80,
+                "Cooldown": 0.35
+            }
+        ]
+    }
 }
