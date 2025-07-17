@@ -116,6 +116,51 @@
             }
         ]
     },
+    "Alex": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Apex",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 100,
+                "Range": 99,
+                "Damage": 999999,
+                "Cooldown": 0.001
+            }
+        ]
+    },
     "Leighton": {
         "Type": "AOE",
         "Image": "rbxassetid://16620053009",
