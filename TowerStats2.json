@@ -661,7 +661,7 @@
         "Image": "rbxassetid://16781122207",
         "Rarity": "Nightmare",
         "PlacePrice": 4000,
-        "Max": 4,
+        "Max": 2,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
         "hitboxOffset": {
             "X": 0,
@@ -1047,5 +1047,6 @@
         ]
     }
 }
+
 
 
