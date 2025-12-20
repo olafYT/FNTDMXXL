@@ -783,8 +783,134 @@
                 "Cooldown": 0.3
             }
         ]
-    }
+    },
+"Marionette's Puppeteer": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18151575297",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 17,
+                "Damage": 2100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 19,
+                "Damage": 3000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 21,
+                "Damage": 3600,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Bounded Shadow": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://18363555442",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 1760,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 1920,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 17000,
+                "Range": 20,
+                "Damage": 3520,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 22000,
+                "Range": 22,
+                "Damage": 4000,
+                "Cooldown": 1
+            }
+        ]
+    },
+ "Astral Bonnie": {
+            "Type": "Continuous Splash",
+            "Image": "rbxassetid://128604882971057",
+            "Rarity": "Apex",
+            "PlacePrice": 20000,
+            "Offset": 0.5,
+            "Max": 3,
+            "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 30,
+                    "Damage": 2000,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 25000,
+                    "Range": 32,
+                    "Damage": 2400,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 30000,
+                    "Range": 34,
+                    "Damage": 2800,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 40000,
+                    "Range": 40,
+                    "Damage": 3200,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                }
+            ]
+        }
 }
+
 
 
 
