@@ -902,7 +902,7 @@
                 {
                     "Price": 40000,
                     "Range": 40,
-                    "Damage": 3200,
+                    "Damage": 3000,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
@@ -949,6 +949,7 @@
         ]
     }
 }
+
 
 
 
