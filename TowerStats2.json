@@ -990,7 +990,7 @@
         "Type": "AOE + Wither",
         "Image": "rbxassetid://18151573285",
         "Rarity": "Nightmare",
-        "PlacePrice": 71000,
+        "PlacePrice": 30000,
         "Max": 2,
         "Passive": {"Name": "Blight", "Description": "Enemies in range take 20% more damage"},
         "hitboxOffset": {
@@ -1009,7 +1009,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 75000,
+                "Price": 40000,
                 "Range": 28,
                 "Damage": 1750,
                 "Cooldown": 0.25,
@@ -1018,7 +1018,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 80000,
+                "Price": 50000,
                 "Range": 30,
                 "Damage": 2000,
                 "Cooldown": 0.25,
@@ -1027,7 +1027,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 85000,
+                "Price": 60000,
                 "Range": 33,
                 "Damage": 2250,
                 "Cooldown": 0.25,
@@ -1038,6 +1038,7 @@
         ]
     }
 }
+
 
 
 
