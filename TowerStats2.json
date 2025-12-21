@@ -840,7 +840,7 @@
                 {
                     "Price": 0,
                     "Range": 30,
-                    "Damage": 2000,
+                    "Damage": 1000,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
@@ -848,7 +848,7 @@
                 {
                     "Price": 25000,
                     "Range": 32,
-                    "Damage": 2400,
+                    "Damage": 1200,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
@@ -856,7 +856,7 @@
                 {
                     "Price": 30000,
                     "Range": 34,
-                    "Damage": 2800,
+                    "Damage": 1400,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
@@ -864,7 +864,7 @@
                 {
                     "Price": 40000,
                     "Range": 40,
-                    "Damage": 3000,
+                    "Damage": 1500,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
@@ -1000,6 +1000,7 @@
         ]
     }
 }
+
 
 
 
