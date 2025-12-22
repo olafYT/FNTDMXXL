@@ -1200,7 +1200,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 2000,
+                "Damage": 700,
                 "Cooldown": 0.5,
                 "Slow": 0.4,
                 "SlowTime": 2,
@@ -1213,7 +1213,7 @@
             {
                 "Price": 22222,
                 "Range": 34,
-                "Damage": 2500,
+                "Damage": 1500,
                 "Cooldown": 0.5,
                 "Slow": 0.4,
                 "SlowTime": 2,
@@ -1226,7 +1226,7 @@
             {
                 "Price": 33333,
                 "Range": 37,
-                "Damage": 3000,
+                "Damage": 2000,
                 "Cooldown": 0.5,
                 "Slow": 0.4,
                 "SlowTime": 2,
@@ -1239,7 +1239,7 @@
             {
                 "Price": 44444,
                 "Range": 40,
-                "Damage": 3500,
+                "Damage": 2500,
                 "Cooldown": 0.5,
                 "Slow": 0.4,
                 "SlowTime": 2,
@@ -1252,6 +1252,7 @@
         ]
     }
 }
+
 
 
 
