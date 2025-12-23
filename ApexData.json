@@ -5,8 +5,8 @@
     "shinyName": "Shiny Astral Bonnie",
     "image": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
     "shinyImage": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
-    "value": "N/A",
-    "shinyValue": "N/A",
+    "value": null,
+    "shinyValue": null,
     "passive": "Completely halts health regeneration",
     "stats": {
       "Gameplay": "End",
@@ -16,10 +16,9 @@
       "Cooldown": "0.3 - 0.10",
       "Placement": "2"
     },
-    "demand": "N/A",
-    "state": "N/A",
-    "existCount": "34",
-    "shinyExistCount": "3"
+    "demand": null,
+    "state": null,
+    "existCount": 34,
+    "shinyExistCount": 3
   }
 ]
-
