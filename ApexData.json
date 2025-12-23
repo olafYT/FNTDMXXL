@@ -5,20 +5,21 @@
     "shinyName": "Shiny Astral Bonnie",
     "image": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
     "shinyImage": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
-    "value": "90k",
-    "shinyValue": "3.5m-3.7M",
+    "value": "N/A",
+    "shinyValue": "N/A",
     "passive": "Completely halts health regeneration",
     "stats": {
       "Gameplay": "End",
       "Type": "Continuous Splash",
-      "Damage/Boost": "2000 - 3200",
-      "Range": "30 - 40",
-      "Cooldown": "0.25 - 0.25",
-      "Placement": "3"
+      "Damage/Boost": "N/A",
+      "Range": "N/A",
+      "Cooldown": "N/A",
+      "Placement": "2"
     },
-    "demand": "8/10",
-    "state": "Unstable",
-    "existCount": "12.97k"
+    "demand": "N/A",
+    "state": "N/A",
+    "existCount": "N/A"
   }
 
 ]
+
