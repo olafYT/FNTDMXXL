@@ -20,6 +20,28 @@
     "state": null,
     "existCount": 34,
     "shinyExistCount": 3
+  },
+  {
+    "id": "oldManKrampus",
+    "name": "Old Man Krampus",
+    "shinyName": null,
+    "image": "rbxassetid://138508234321719",
+    "shinyImage": null,
+    "value": null,
+    "shinyValue": null,
+    "passive": "Every 3 seconds applies splash 55% Anti-Regen lasting 5s. All enemies in range are slowed by 60% and take 16.5% more damage.",
+    "stats": {
+      "Gameplay": "AOE Slow + Passive",
+      "Type": "Apex",
+      "Damage/Boost": "700 - 2500",
+      "Range": "30 - 40",
+      "Cooldown": "0.5",
+      "Placement": "1"
+    },
+    "demand": null,
+    "state": null,
+    "existCount": 1,
+    "shinyExistCount": 0
   }
 ]
 
