@@ -11,9 +11,9 @@
     "stats": {
       "Gameplay": "End",
       "Type": "Continuous Splash",
-      "Damage/Boost": "N/A",
-      "Range": "N/A",
-      "Cooldown": "N/A",
+      "Damage/Boost": "1000 - 2000",
+      "Range": "30 - 38",
+      "Cooldown": "0.3 - 0.10",
       "Placement": "2"
     },
     "demand": "N/A",
@@ -22,3 +22,4 @@
     "shinyExistCount": "3"
   }
 ]
+
