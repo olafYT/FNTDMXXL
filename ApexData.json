@@ -25,8 +25,8 @@
     "id": "oldManKrampus",
     "name": "Old Man Krampus",
     "shinyName": null,
-    "image": null,
-    "shinyImage": null,
+    "image": "https://drive.google.com/thumbnail?id=1vUUwCkr-Ks3JSaRNH_VSvO9okkRBjP0h&sz=w1000",
+    "shinyImage": "https://drive.google.com/thumbnail?id=1vUUwCkr-Ks3JSaRNH_VSvO9okkRBjP0h&sz=w1000",
     "value": null,
     "shinyValue": null,
     "passive": "Every 3 seconds applies splash 55% Anti-Regen lasting 5s. All enemies in range are slowed by 60% and take 16.5% more damage.",
@@ -44,5 +44,6 @@
     "shinyExistCount": 0
   }
 ]
+
 
 
