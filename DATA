@@ -1,21 +1,23 @@
-{
-  "id": "astralBonnie",
-  "name": "Astral Bonnie",
-  "shinyName": "Shiny Astral Bonnie",
-  "image": "image_url",
-  "shinyImage": "shiny_image_url",
-  "value": "90k",
-  "shinyValue": "3.5m-3.7M",
-  "passive": "Completely halts health regeneration",
-  "stats": {
-    "Gameplay": "End",
-    "Type": "Continuous Splash",
-    "Damage/Boost": "2000 - 3200",
-    "Range": "30 - 40",
-    "Cooldown": "0.25 - 0.25",
-    "Placement": "3"
-  },
-  "demand": "8/10",
-  "state": "Unstable",
-  "existCount": "12.97k"
-}
+[
+  {
+    "id": "astralBonnie",
+    "name": "Astral Bonnie",
+    "shinyName": "Shiny Astral Bonnie",
+    "image": "image_url",
+    "shinyImage": "shiny_image_url",
+    "value": "90k",
+    "shinyValue": "3.5m-3.7M",
+    "passive": "Completely halts health regeneration",
+    "stats": {
+      "Gameplay": "End",
+      "Type": "Continuous Splash",
+      "Damage/Boost": "2000 - 3200",
+      "Range": "30 - 40",
+      "Cooldown": "0.25 - 0.25",
+      "Placement": "3"
+    },
+    "demand": "8/10",
+    "state": "Unstable",
+    "existCount": "12.97k"
+  }
+]
