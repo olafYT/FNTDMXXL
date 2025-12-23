@@ -3,8 +3,8 @@
     "id": "astralBonnie",
     "name": "Astral Bonnie",
     "shinyName": "Shiny Astral Bonnie",
-    "image": "image_url",
-    "shinyImage": "shiny_image_url",
+    "image": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
+    "shinyImage": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
     "value": "90k",
     "shinyValue": "3.5m-3.7M",
     "passive": "Completely halts health regeneration",
@@ -20,4 +20,5 @@
     "state": "Unstable",
     "existCount": "12.97k"
   }
+
 ]
