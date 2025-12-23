@@ -25,7 +25,7 @@
     "id": "oldManKrampus",
     "name": "Old Man Krampus",
     "shinyName": null,
-    "image": "rbxassetid://138508234321719",
+    "image": null,
     "shinyImage": null,
     "value": null,
     "shinyValue": null,
@@ -44,4 +44,5 @@
     "shinyExistCount": 0
   }
 ]
+
 
