@@ -1,0 +1,20 @@
+[
+  {
+    "id": "astralBonnie",
+    "name": "Astral Bonnie",
+    "shinyName": "Shiny Astral Bonnie",
+    "image": "https://link-to-image.png",
+    "shinyImage": "https://link-to-shiny-image.png",
+    "value": "90k",
+    "shinyValue": "3.5m-3.7M",
+    "passive": "Completely halts health regeneration on targeted enemies",
+    "stats": {
+      "Gameplay": "End",
+      "Type": "Continuous Splash",
+      "DamageBoost": "2000 - 3200",
+      "Range": "30 - 40",
+      "Cooldown": "0.25 - 0.25",
+      "Placement": "3"
+    },
+    "demand": "8/10",
+    "state": "Unstable
