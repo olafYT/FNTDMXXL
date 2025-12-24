@@ -1336,7 +1336,7 @@
  "Santa Freddy": {
         "Type": "aoe + slow",
         "Image": "rbxassetid://114056239235014",
-        "Rarity": "Nightmare",
+        "Rarity": "Apex",
         "PlacePrice": 15000,
         "Max": 1,
         "hitboxOffset": {
@@ -1381,6 +1381,7 @@
         ]
     }
 }
+
 
 
 
