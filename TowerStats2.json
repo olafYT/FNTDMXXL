@@ -1384,7 +1384,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://104200844078162",
         "Rarity": "Nightmare",
-        "PlacePrice": 2500,
+        "PlacePrice": 5000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1498,6 +1498,7 @@
         ]
     }
 }
+
 
 
 
