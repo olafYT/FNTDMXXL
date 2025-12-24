@@ -1382,7 +1382,7 @@
     },
  "Santa Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://107319449937836",
+        "Image": "rbxassetid://104200844078162",
         "Rarity": "Nightmare",
         "PlacePrice": 0,
         "Max": 2,
@@ -1498,6 +1498,7 @@
         ]
     }
 }
+
 
 
 
