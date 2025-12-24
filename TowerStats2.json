@@ -1382,7 +1382,7 @@
     },
  "Santa Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://114056239235014",
+        "Image": "rbxassetid://107319449937836",
         "Rarity": "Nightmare",
         "PlacePrice": 0,
         "Max": 2,
@@ -1421,7 +1421,7 @@
     },
  "Santa Foxy": {
         "Type": "Melee",
-        "Image": "rbxassetid://114056239235014",
+        "Image": "rbxassetid://107319449937836",
         "Rarity": "Secret",
         "PlacePrice": 0,
         "Max": 2,
@@ -1460,7 +1460,7 @@
     },
  "Santa Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://114056239235014",
+        "Image": "rbxassetid://116711651979551",
         "Rarity": "Mythic",
         "PlacePrice": 2500,
         "Max": 2,
@@ -1498,6 +1498,7 @@
         ]
     }
 }
+
 
 
 
