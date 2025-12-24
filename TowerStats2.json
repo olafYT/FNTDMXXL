@@ -1347,7 +1347,7 @@
         "Offset": 0.3,
         "Upgrades": [
             {
-                "Price": 16000,
+                "Price": 0,
                 "Range": 30,
                 "Damage": 2000,
                 "Cooldown": 4,
@@ -1394,7 +1394,7 @@
         "Offset": 0.3,
         "Upgrades": [
             {
-                "Price": 3500,
+                "Price": 0,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 0.25
@@ -1433,25 +1433,25 @@
         "Offset": 0.65,
         "Upgrades": [
             {
-                "Price": 20000,
+                "Price": 0,
                 "Range": 14,
                 "Damage": 500,
                 "Cooldown": 3
             },
             {
-                "Price": 25000,
+                "Price": 20000,
                 "Range": 17,
                 "Damage": 800,
                 "Cooldown": 2.5
             },
             {
-                "Price": 30000,
+                "Price": 25000,
                 "Range": 22,
                 "Damage":1300,
                 "Cooldown":2
             },
             {
-                "Price": 38000,
+                "Price": 30000,
                 "Range": 27,
                 "Damage": 1800,
                 "Cooldown":1.5
@@ -1472,7 +1472,7 @@
         "Offset": 0,
         "Upgrades": [
             {
-                "Price": 3000,
+                "Price": 0,
                 "Range": 15,
                 "Damage": 50,
                 "Cooldown": 3
@@ -1498,6 +1498,7 @@
         ]
     }
 }
+
 
 
 
