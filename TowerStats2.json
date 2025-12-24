@@ -1337,7 +1337,7 @@
         "Type": "aoe + slow",
         "Image": "rbxassetid://114056239235014",
         "Rarity": "Nightmare",
-        "PlacePrice": 7500,
+        "PlacePrice": 15000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -1381,6 +1381,7 @@
         ]
     }
 }
+
 
 
 
