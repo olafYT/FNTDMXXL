@@ -21,51 +21,53 @@
     "existCount": 53,
     "shinyExistCount": 3
   },
-  {
-    "id": "oldmankrampus",
-    "name": "Old Man Krampus",
-    "shinyName": "Shiny Old Man Krampus",
-    "image": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
-    "shinyImage": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
-    "value": "52K",
-    "shinyValue": "1.7M",
-    "passive": "null",
-    "stats": {
-      "Gameplay": "null",
-      "Type": "null",
-      "Damage/Boost": "null - null",
-      "Range": "null - null",
-      "Cooldown": "null",
-      "Placement": "null"
-    },
-    "demand": null,
-    "state": null,
-    "existCount": 192,
-    "shinyExistCount": 5
+ {
+  "id": "oldmankrampus",
+  "name": "Old Man Krampus",
+  "shinyName": "Shiny Old Man Krampus",
+  "image": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
+  "shinyImage": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
+  "value": "52K",
+  "shinyValue": "1.7M",
+  "passive": "Tidings Of Charcoal",
+  "stats": {
+    "Gameplay": "AOE Crowd Control + Damage Amplifier",
+    "Type": "AOE Slow + Passive",
+    "Damage/Boost": "2500 - 15500 DMG",
+    "Range": "30 - 40",
+    "Cooldown": "0.5s",
+    "Placement": "Max 1"
   },
-    {
-    "id": "santafreddy",
-    "name": "Santa Freddy",
-    "shinyName": "Shiny Santa Freddy",
-    "image": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
-    "shinyImage": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
-    "value": null,
-    "shinyValue": null,
-    "passive": "null",
-    "stats": {
-      "Gameplay": "null",
-      "Type": "null",
-      "Damage/Boost": "null - null",
-      "Range": "null - null",
-      "Cooldown": "null",
-      "Placement": "null"
-    },
-    "demand": null,
-    "state": null,
-    "existCount": 30,
-    "shinyExistCount": 2
-  }
+  "demand": null,
+  "state": null,
+  "existCount": 192,
+  "shinyExistCount": 5
+},
+
+{
+  "id": "santafreddy",
+  "name": "Santa Freddy",
+  "shinyName": "Shiny Santa Freddy",
+  "image": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
+  "shinyImage": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
+  "value": null,
+  "shinyValue": null,
+  "passive": null,
+  "stats": {
+    "Gameplay": "AOE Damage + Heavy Slow",
+    "Type": "AOE + Slow",
+    "Damage/Boost": "2000 - 7000 DMG",
+    "Range": "30 - 45",
+    "Cooldown": "4s - 1.8s",
+    "Placement": "Max 1"
+  },
+  "demand": null,
+  "state": null,
+  "existCount": 30,
+  "shinyExistCount": 2
+}
 ]
+
 
 
 
