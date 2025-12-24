@@ -1419,8 +1419,8 @@
             }
         ]
     },
- "Santa Foxy": {
-        "Type": "Melee",
+"Santa Foxy": {
+        "Type": "Melee + slow",
         "Image": "rbxassetid://107319449937836",
         "Rarity": "Secret",
         "PlacePrice": 0,
@@ -1433,32 +1433,32 @@
         "Offset": 0.65,
         "Upgrades": [
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 20000,
+                "Range": 14,
+                "Damage": 500,
+                "Cooldown": 3
             },
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 25000,
+                "Range": 17,
+                "Damage": 800,
+                "Cooldown": 2.5
             },
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 30000,
+                "Range": 22,
+                "Damage":1300,
+                "Cooldown":2
             },
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 38000,
+                "Range": 27,
+                "Damage": 1800,
+                "Cooldown":1.5
             }
         ]
     },
- "Santa Chica": {
+"Santa Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://116711651979551",
         "Rarity": "Mythic",
@@ -1472,32 +1472,33 @@
         "Offset": 0,
         "Upgrades": [
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 50,
+                "Cooldown": 3
             },
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 3700,
+                "Range": 20,
+                "Damage": 90,
+                "Cooldown": 2.3
             },
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 3800,
+                "Range": 20,
+                "Damage": 130,
+                "Cooldown":1.8
             },
             {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0
+                "Price": 4200,
+                "Range": 23,
+                "Damage": 190,
+                "Cooldown": 1.5
             }
         ]
     }
 }
+
 
 
 
