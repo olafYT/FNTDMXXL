@@ -1379,8 +1379,126 @@
                 "SlowTime": 2
             }
         ]
+    },
+ "Santa Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://114056239235014",
+        "Rarity": "Nightmare",
+        "PlacePrice": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            }
+        ]
+    },
+ "Santa Foxy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://114056239235014",
+        "Rarity": "Secret",
+        "PlacePrice": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.65,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 25000,
+                "Range": 35,
+                "Damage": 3500,
+                "Cooldown": 2,
+            }
+        ]
+    },
+ "Santa Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://114056239235014",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            },
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+            }
+        ]
     }
 }
+
 
 
 
