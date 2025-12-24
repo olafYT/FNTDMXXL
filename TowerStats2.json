@@ -1397,25 +1397,25 @@
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             }
         ]
     },
@@ -1436,25 +1436,25 @@
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
-                "Price": 25000,
-                "Range": 35,
-                "Damage": 3500,
-                "Cooldown": 2,
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0
             }
         ]
     },
@@ -1475,29 +1475,30 @@
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             },
             {
                 "Price": 0,
                 "Range": 0,
                 "Damage": 0,
-                "Cooldown": 0,
+                "Cooldown": 0
             }
         ]
     }
 }
+
 
 
 
