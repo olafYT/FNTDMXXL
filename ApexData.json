@@ -5,8 +5,8 @@
     "shinyName": "Shiny Astral Bonnie",
     "image": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
     "shinyImage": "https://drive.google.com/thumbnail?id=1cY4dc8K4lqst_KhBxXQxFuPyDglw0k0I&sz=w1000",
-    "value": null,
-    "shinyValue": null,
+    "value": "86K",
+    "shinyValue": "2.5M",
     "passive": "Completely halts health regeneration",
     "stats": {
       "Gameplay": "End",
@@ -27,8 +27,8 @@
     "shinyName": "Shiny Old Man Krampus",
     "image": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
     "shinyImage": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
-    "value": null,
-    "shinyValue": null,
+    "value": "52K",
+    "shinyValue": "1.7M",
     "passive": "null",
     "stats": {
       "Gameplay": "null",
@@ -66,6 +66,7 @@
     "shinyExistCount": 2
   }
 ]
+
 
 
 
