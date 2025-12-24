@@ -20,8 +20,54 @@
     "state": null,
     "existCount": 34,
     "shinyExistCount": 3
+  },
+  {
+    "id": "oldmankrampus",
+    "name": "Old Man Krampus",
+    "shinyName": "Shiny Old Man Krampus",
+    "image": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
+    "shinyImage": "https://drive.google.com/thumbnail?id=1rRt744OPHxOYXmFJ5RvTLHRrbdX32Coo&sz=w1000",
+    "value": null,
+    "shinyValue": null,
+    "passive": "null",
+    "stats": {
+      "Gameplay": "null",
+      "Type": "null",
+      "Damage/Boost": "null - null",
+      "Range": "null - null",
+      "Cooldown": "null",
+      "Placement": "null"
+    },
+    "demand": null,
+    "state": null,
+    "existCount": null,
+    "shinyExistCount": null
+  },
+    {
+    "id": "santafreddy",
+    "name": "Santa Freddy",
+    "shinyName": "Shiny Santa Freddy",
+    "image": "https://drive.google.com/file/d/1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS/view?usp=drive_link",
+    "shinyImage": "https://drive.google.com/file/d/1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS/view?usp=drive_link",
+    "value": null,
+    "shinyValue": null,
+    "passive": "null",
+    "stats": {
+      "Gameplay": "null",
+      "Type": "null",
+      "Damage/Boost": "null - null",
+      "Range": "null - null",
+      "Cooldown": "null",
+      "Placement": "null"
+    },
+    "demand": null,
+    "state": null,
+    "existCount": null,
+    "shinyExistCount": null
   }
 ]
+
+
 
 
 
