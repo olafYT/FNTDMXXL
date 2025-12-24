@@ -47,8 +47,8 @@
     "id": "santafreddy",
     "name": "Santa Freddy",
     "shinyName": "Shiny Santa Freddy",
-    "image": "https://drive.google.com/file/d/1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS/view?usp=drive_link",
-    "shinyImage": "https://drive.google.com/file/d/1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS/view?usp=drive_link",
+    "image": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
+    "shinyImage": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
     "value": null,
     "shinyValue": null,
     "passive": "null",
@@ -66,6 +66,7 @@
     "shinyExistCount": null
   }
 ]
+
 
 
 
