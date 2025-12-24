@@ -36,7 +36,7 @@
     "Damage/Boost": "2500 - 15500 DMG",
     "Range": "30 - 40",
     "Cooldown": "0.5s",
-    "Placement": "Max 1"
+    "Placement": 1
   },
   "demand": null,
   "state": null,
@@ -50,7 +50,7 @@
   "shinyName": "Shiny Santa Freddy",
   "image": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
   "shinyImage": "https://drive.google.com/thumbnail?id=1BM4PRhpLrgw4F-JimgLb6y0S6Ayx9zXS&sz=w1000",
-  "value": null,
+  "value": "92.1K",
   "shinyValue": null,
   "passive": null,
   "stats": {
@@ -59,7 +59,7 @@
     "Damage/Boost": "2000 - 7000 DMG",
     "Range": "30 - 45",
     "Cooldown": "4s - 1.8s",
-    "Placement": "Max 1"
+    "Placement": 1
   },
   "demand": null,
   "state": null,
@@ -67,6 +67,7 @@
   "shinyExistCount": 2
 }
 ]
+
 
 
 
