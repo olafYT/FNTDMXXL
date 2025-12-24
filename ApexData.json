@@ -18,7 +18,7 @@
     },
     "demand": null,
     "state": null,
-    "existCount": 34,
+    "existCount": 53,
     "shinyExistCount": 3
   },
   {
@@ -40,8 +40,8 @@
     },
     "demand": null,
     "state": null,
-    "existCount": null,
-    "shinyExistCount": null
+    "existCount": 192,
+    "shinyExistCount": 5
   },
     {
     "id": "santafreddy",
@@ -62,10 +62,11 @@
     },
     "demand": null,
     "state": null,
-    "existCount": null,
-    "shinyExistCount": null
+    "existCount": 30,
+    "shinyExistCount": 2
   }
 ]
+
 
 
 
