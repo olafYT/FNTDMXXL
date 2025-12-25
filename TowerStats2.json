@@ -1384,38 +1384,51 @@
         "Type": "Splash",
         "Image": "rbxassetid://134625541932255",
         "Rarity": "Nightmare",
-        "PlacePrice": 3500,
-        "Max": 2,
+       "PlacePrice": 7500,
+        "Offset": 1.25,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Offset": 0.3,
         "Upgrades": [
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 750,
-                "Cooldown": 4
-            },
-            {
-                "Price": 5000,
-                "Range": 30,
-                "Damage":1500,
-                "Cooldown": 3
-            },
-            {
-                "Price": 8000,
-                "Range": 35,
-                "Damage":2500 ,
+                "Damage": 1500,
                 "Cooldown": 2.5
+            },
+
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 2000,
+                "Cooldown": 2.4
             },
             {
                 "Price": 15000,
-                "Range": 40,
-                "Damage": 4200,
-                "Cooldown": 1
+                "Range": 31,
+                "Damage": 2500,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 20000,
+                "Range": 34,
+                "Damage": 3000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 25000,
+                "Range": 37,
+                "Damage": 3400,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 30000,
+                "Range": 45,
+                "Damage": 4000,
+                "Cooldown": 2
             }
         ]
     },
@@ -1537,6 +1550,7 @@
         ]
     }
 }
+
 
 
 
