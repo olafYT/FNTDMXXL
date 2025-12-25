@@ -1462,7 +1462,7 @@
         "Type": "Melee + slow",
         "Image": "rbxassetid://107319449937836",
         "Rarity": "Mythic",
-        "PlacePrice": 15000,
+        "PlacePrice": 5000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1537,6 +1537,7 @@
         ]
     }
 }
+
 
 
 
