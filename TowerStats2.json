@@ -1382,7 +1382,7 @@
     }, 
 "Santa Scott": {
         "Type": "Splash",
-        "Image": "rbxassetid://",
+        "Image": "rbxassetid://134625541932255",
         "Rarity": "Nightmare",
         "PlacePrice": 3500,
         "Max": 2,
@@ -1537,6 +1537,7 @@
         ]
     }
 }
+
 
 
 
