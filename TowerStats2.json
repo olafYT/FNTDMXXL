@@ -1514,7 +1514,7 @@
             "Price": 0,
             "Range": 25,
             "Damage": 2000,
-            "Cooldown": 3,
+            "Cooldown": 3.5,
             "SplashRadius": 12,
             "SlowAmount": 0.3,
             "SlowDuration": 2
@@ -1729,6 +1729,7 @@
         ]
     }
 }
+
 
 
 
