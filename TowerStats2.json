@@ -1872,7 +1872,7 @@
 "ReddyTD": {
         "Type": "None",
         "Image": "rbxassetid://117535133166428",
-        "Rarity": "Secret",
+        "Rarity": "Forgotten",
         "PlacePrice": 0,
         "Offset": 0,
         "Max": 1,
@@ -2152,6 +2152,7 @@
         ]
     }
 }
+
 
 
 
