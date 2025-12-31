@@ -1817,7 +1817,7 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
@@ -1864,7 +1864,7 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
@@ -1911,7 +1911,7 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
@@ -1958,7 +1958,7 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
@@ -2005,7 +2005,7 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
@@ -2052,7 +2052,7 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
@@ -2099,7 +2099,7 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
@@ -2146,12 +2146,13 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 0,
-                "Slow": 0
+                "Slow": 0,
                 "SlowTime": 0
             }
         ]
     }
 }
+
 
 
 
