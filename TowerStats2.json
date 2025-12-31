@@ -1772,26 +1772,11 @@
                 "Cooldown": 1,
                 "Slow": 0.45,
                 "SlowTime": 1
-            },
-            {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "Slow": 0,
-                "SlowTime": 0
-            },
-            {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 0,
-                "Slow": 0,
-                "SlowTime": 0
             }
         ]
     }
 }
+
 
 
 
