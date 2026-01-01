@@ -1872,7 +1872,7 @@
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "RangeBoost": 1.05,
+                "RangeBoost": 1.1,
                 "DamageBoost": 1.1
             },
             {
@@ -1880,7 +1880,7 @@
                 "Range": 32,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "RangeBoost": 1.1,
+                "RangeBoost": 1.15,
                 "DamageBoost": 1.15
             },
             {
@@ -1888,7 +1888,7 @@
                 "Range": 35,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "RangeBoost": 1.15,
+                "RangeBoost": 1.2,
                 "DamageBoost": 1.2
             },
             {
@@ -1896,7 +1896,7 @@
                 "Range": 40,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "RangeBoost": 1.2,
+                "RangeBoost": 1.32,
                 "DamageBoost": 1.32
             }
         ]
@@ -2144,6 +2144,7 @@
         ]
     }
 }
+
 
 
 
