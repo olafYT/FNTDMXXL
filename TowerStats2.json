@@ -1857,7 +1857,7 @@
         "Type": "Damage + Range Boost",
         "Image": "rbxassetid://117535133166428",
         "Rarity": "Forgotten",
-        "PlacePrice": 1000,
+        "PlacePrice": 1500,
         "Offset": 0,
         "Max": 2,
         "NoEnemyAttack": true,
@@ -1876,7 +1876,7 @@
                 "DamageBoost": 1.15
             },
             {
-                "Price": 1500,
+                "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0.5,
@@ -1885,7 +1885,7 @@
                 "DamageBoost": 1.25
             },
             {
-                "Price": 2000,
+                "Price": 2500,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
@@ -1894,12 +1894,12 @@
                 "DamageBoost": 1.35
             },
             {
-                "Price": 2500,
+                "Price": 3000,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "RangeBoost": 1.5,
-                "DamageBoost": 1.5
+                "RangeBoost": 1.4,
+                "DamageBoost": 1.4
             }
         ]
     },
@@ -2146,3 +2146,4 @@
         ]
     }
 }
+
