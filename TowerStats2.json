@@ -1971,13 +1971,13 @@
                 "Price": 25000,
                 "Range": 25,
                 "Damage": 35,
-                "Cooldown": 0.02
+                "Cooldown": 0.03
             },
             {
                 "Price": 35000,
                 "Range": 30,
                 "Damage": 40,
-                "Cooldown": 0.01
+                "Cooldown": 0.03
             }
         ]
     },
@@ -2146,6 +2146,7 @@
         ]
     }
 }
+
 
 
 
